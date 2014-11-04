@@ -2,7 +2,7 @@ CroudiaShap
 ===========
 
 CroudiaのAPIを呼び出すC#ライブラリです(作りかけ)  
-そのうち完成すると思います(○○WithMedia API動かない気がする)
+そのうち完成すると思います(○○WithMedia API動かない気がする)  
 またCroudiaはクローディア株式会社の登録商標です
 
 連絡事項
